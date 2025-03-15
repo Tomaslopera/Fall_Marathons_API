@@ -28,7 +28,7 @@ Este proyecto consiste en una API desarrollada con FastAPI para gestionar y cons
 1. **Clona el repositorio:**
 
    ```bash
-   git clone https://github.com/tuusuario/fall-marathons-api.git
+   git clone [https://github.com/tuusuario/fall-marathons-api.git](https://github.com/Tomaslopera/Fall_Marathons_API.git)
    cd fall-marathons-api
 
 2. **Instalar dependencias:**
